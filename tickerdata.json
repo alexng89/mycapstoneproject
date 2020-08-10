@@ -35,7 +35,7 @@
     {"label": "V", "value": "V"},
     {"label": "VZ", "value": "VZ"},
     {"label": "WMT", "value": "WMT"},
-     {"label": "XLC", "value": "XLC"},
+    {"label": "XLC", "value": "XLC"},
     {"label": "XLE", "value": "XLE"},
     {"label": "XLF", "value": "XLF"},
     {"label": "XLI", "value": "XLI"},
