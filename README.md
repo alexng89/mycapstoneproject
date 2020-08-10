@@ -15,3 +15,6 @@ The following should satisfy the requirement if one chooses to manual install:
 
 **pip install pandas numpy pandas_datareader datetime json dash dash_table dash_core_components dash_html_components dash.dependencies dash.exceptions plotly.graph_objs**
 
+# Honorary Mentions/References
+
+https://www.pythonforfinance.net/2019/07/02/investment-portfolio-optimisation-with-python-revisited/
