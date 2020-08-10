@@ -1,0 +1,12 @@
+pandas
+numpy
+pandas_datareader
+datetime
+json
+dash
+dash_table
+dash_core_components
+dash_html_components
+dash.dependencies
+dash.exceptions
+plotly.graph_objs
