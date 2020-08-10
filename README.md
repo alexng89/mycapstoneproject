@@ -8,5 +8,10 @@ The objective of this capstone project is to build an app that would help us mak
 # Getting Started  
 Using a python3 environment, install all the libraries used in this repository:
 
-**pip install -r requirements.txt**
+**pip install -r requirements.txt**  
+
+# Manual Install  
+The following should satisfy the requirement if one chooses to manual install:  
+
+**pip install pandas numpy pandas_datareader datetime json dash dash_table dash_core_components dash_html_components dash.dependencies dash.exceptions plotly.graph_objs**
 
