@@ -8,5 +8,5 @@ The objective of this capstone project is to build an app that would help us mak
 # Getting Started  
 Using a python3 environment, install all the libraries used in this repository:
 
-** pip install -r requirements.txt **
+**pip install -r requirements.txt**
 
